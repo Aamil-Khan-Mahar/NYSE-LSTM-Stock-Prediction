@@ -14,6 +14,7 @@ This repository features a comprehensive project that combines an in-depth Explo
 - **Google Drive Storage:**  
   - Models are saved in the `Models` folder.
   - Predictions and evaluation metrics (loss and RMSE) are stored as CSV files in the `Results` folder.
+  - The data files used are also present in the drive folder.
   - [Access the full Google Drive here](https://drive.google.com/drive/folders/1wyaEdTy3q0YAxslaitGCI6GmJM99O0wH?usp=drive_link)
 
 - **Reproducibility:**  
